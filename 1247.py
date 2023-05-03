@@ -31,4 +31,4 @@ input()은
 + input()은 더이상 입력이 없는데도 수행될경우 런타임 에러 (EOFError)를 뱉어낸다고..
 sys.stdin.readline()은 빈 문자열을 반환한다고한다.
     
-    '''
+'''
